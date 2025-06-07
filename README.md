@@ -1,4 +1,4 @@
-# Hi there, I'm Simon !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&vCenter=true&width=435&lines=Hi+there%2C+I'm+Simon+!)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack:
 
