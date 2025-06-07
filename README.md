@@ -6,9 +6,9 @@
 
 ## 📊 GitHub Stats:
 
-![](https://statgithub.hydronium.be/?username=HydroniumHA&theme=onedark&hide_border=true)<br/>  
+![](https://statgithub.hydronium.be/?username=HydroniumHA&theme=dark&hide_border=true&show_icons=true)<br/>  
 ![](https://nirzak-streak-stats.vercel.app/?user=HydroniumHA&theme=onedark&hide_border=true&timestamp=2025)<br/>  
-![](https://statgithub.hydronium.be/top-langs?username=HydroniumHA&theme=onedark&hide_border=true&layout=compact)  
+![](https://statgithub.hydronium.be/top-langs?username=HydroniumHA&theme=dark&hide_border=true)  
 
 ### ✍️ Random Dev Quote:
 
