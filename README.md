@@ -10,7 +10,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=HydroniumHA&theme=onedark&hide_border=true&timestamp=2025)<br/>  
 ![](https://statgithub.hydronium.be/top-langs?username=HydroniumHA&theme=onedark&hide_border=true&layout=compact)  
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
  
