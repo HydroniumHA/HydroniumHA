@@ -8,7 +8,7 @@
 
 ![](https://statgithub.hydronium.be/?username=HydroniumHA&theme=dark&hide_border=true&show_icons=true)<br/>  
 ![](https://nirzak-streak-stats.vercel.app/?user=HydroniumHA&theme=dark&hide_border=true&timestamp=2025)<br/>  
-![](https://statgithub.hydronium.be/top-langs?username=HydroniumHA&theme=dark&hide_border=true)  
+![](https://statgithub.hydronium.be/top-langs?username=HydroniumHA&theme=dark&hide_border=true&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)  
 
 ### ✍️ Random Dev Quote:
 
