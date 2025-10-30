@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&vCenter=true&width=435&lines=Hi+there%2C+I'm+Simon+!)](https://git.io/typing-svg)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=2000&color=8D09F7FF&vCenter=true&width=435&lines=Hi+there%2C+I'm+Simon+!)
 
 ## 💻 Tech Stack:
 
@@ -6,6 +6,6 @@
 
 ## 📊 GitHub Stats:
 
-![](https://statgithub.hydronium.be/?username=HydroniumHA&theme=dark&hide_border=true&show_icons=true)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=HydroniumHA&theme=dark&hide_border=true)<br/>  
-![](https://statgithub.hydronium.be/top-langs?username=HydroniumHA&layout=donut-vertical&theme=dark&hide_border=true&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)  
+![](https://statgithub.hydronium.be/?username=HydroniumHA&theme=midnight-purple&hide_border=true&show_icons=true)<br/>  
+![](https://nirzak-streak-stats.vercel.app/?user=HydroniumHA&theme=midnight-purple&hide_border=true)<br/>  
+![](https://statgithub.hydronium.be/top-langs?username=HydroniumHA&layout=donut-vertical&theme=midnight-purple&hide_border=true&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)  
