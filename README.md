@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=2000&color=8D09F7FF&vCenter=true&width=435&lines=Hi+there%2C+I'm+Simon+!)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&color=8D09F7FF&vCenter=true&width=435&lines=Hi+there%2C+I'm+Simon+!)
 
 ## 💻 Tech Stack:
 
