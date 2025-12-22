@@ -56,5 +56,5 @@
 ## 📊 GitHub Stats:
 
   <img src="https://statgithub.hydronium.be/?username=HydroniumHA&theme=midnight-purple&hide_border=true&show_icons=true " alt="GitHub Stats"/>
-  <img src="https://statgithub.hydronium.be/top-langs?username=HydroniumHA&layout=donut-vertical&theme=midnight-purple&hide_border=true&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&langs_count=20 " alt="Top Languages"/>
+  <img src="https://statgithub.hydronium.be/top-langs?username=HydroniumHA&layout=donut-vertical&theme=midnight-purple&hide_border=true&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&langs_count=20" alt="Top Languages"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=HydroniumHA&theme=midnight-purple&hide_border=true"/>
